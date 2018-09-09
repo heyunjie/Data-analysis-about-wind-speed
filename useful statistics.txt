@@ -1,0 +1,37 @@
+The summary statistics for the monthly average wind speed in Beek are
+2.65 3.9125 4.42 4.580361 5.02 8.04 137 
+The maximum monthly wind speed in Beek from 1950 to 2003 is 8.04 m/s, in  February 1990 
+The minimum monthly wind speed in Beek from 1950 to 2003 is 2.65 m/s, in  August 1977 
+The maximum yearly average wind speed in Beek is 5.285 m/s, in  1983 
+ The minimum yearly average wind speed in Beek is 3.879167  m/s, in  1969 
+The summary statistics for the yearly average wind speed in Beek are
+3.879167 4.380625 4.52 4.569433 4.806458 5.285 
+The summary statistics for the monthly average wind speed in Eelde are
+2.95 4.02 4.5 4.681069 5.16 8.92 130 
+The maximum monthly wind speed in Eelde from 1950 to 2003 is 8.92 m/s, in  January 1983 
+The minimum monthly wind speed in Eelde from 1950 to 2003 is 2.95 m/s, in  August 2002 
+The maximum mean of yearly wind speed in Eelde is 5.369167 m/s, in  1983 
+ The minimum mean of yearly wind speed in Eelde is 4.055  m/s, in  1963 
+The summary statistics for the yearly average wind speed in Eelde are
+4.055 4.450208 4.64 4.681964 4.85625 5.369167 
+The range of yearly wind speed from 1959-1976 in Beek is 3.879167 to 4.845 
+The range of yearly wind speed from 1959-1976 in Eelde is 4.055 to 5.176667 
+The range of yearly wind speed from 1977-2003 in Beek is 4.303333 to 5.285 
+The range of yearly wind speed from 1977-2003 in Eelde is 4.404167 to 5.369167 
+
+The p-value for testing the average wind speed for two periods of time in Eelde is 0.001 
+The confidence interval for testing the average wind speed for two periods of time in Eelde is [ -0.4963639 -0.1500784 ]
+we reject the null hypothesis that there is no difference between the periods 1950 - 1976 and 1977-2003 in Eelde, Hence,there is difference between two periods in Eelde
+The average wind speed in second period is estimated to be higher than that in first period
+
+
+The p-value for testing the average wind speed for summer and winter is 5.890428e-15 
+The confidence interval for testing the average wind speed for two seasons is[ -1.634535 -1.166928 ]
+we reject the null hypothesis that there is no difference between the average wind speed in summer and winter. Hence,there is difference between the average wind speed in summer and winter
+The average wind speed in winter is estimated to be higher than that in summer
+
+
+The p-value for testing the average wind speed for two locations is 0.007 
+The confidence interval for testing the average wind speed for two locations is[ 0.03192587 0.1931376 ]
+we reject the null hypothesis that there is no difference between the locations. Hence,there is difference between two locations
+The average wind speed in Eelde is estimated to be higher than that in Beek
