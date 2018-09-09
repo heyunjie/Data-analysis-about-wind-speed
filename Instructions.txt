@@ -1,0 +1,7 @@
+To describe and analyse monthly wind speed readings from two weather stations for the period 1950-2003.
+The data itself consists of 5 columns:
+Year: 1950 to 2003
+Month: 1 to 12
+Site_No: 7:Eelde  13:Berk
+No_Readings: the number of days in the month for which readings exist
+Ave: wind speed(in m/s), if no valid monthly average existsm "-1" is shown
